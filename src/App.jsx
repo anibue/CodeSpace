@@ -26,12 +26,12 @@ import "./styles.css";
 const siteProps = {
   name: "anibue",
   title: "Web Designer & Content Creator",
-  email: "xwmsurwr@example.com",
+  email: "xwmsurwr@out.com",
   gitHub: "anibue",
   instagram: "microsoft",
   linkedIn: "satyanadella",
   medium: "",
-  twitter: "anibue",
+  twitter: "buaichimangguo",
   youTube: "anibue_mango",
 };
 
