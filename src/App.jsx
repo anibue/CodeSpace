@@ -31,8 +31,8 @@ const siteProps = {
   instagram: "microsoft",
   linkedIn: "satyanadella",
   medium: "",
-  twitter: "buaichimangguo",
-  youTube: "anibue",
+  twitter: "anibue",
+  youTube: "anibue_mango",
 };
 
 const primaryColor = "#4E567E";
